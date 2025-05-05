@@ -4,7 +4,7 @@ git status
 git add .
 git commit -m "hello gitt"
 git commit
-repository
+created a repository
 git log
 end
 ending
