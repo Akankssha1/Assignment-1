@@ -7,3 +7,5 @@ Then, Again Modified the content of first.txt and changed the text from "reposit
 All the changes made are saved in the finalcommit.
 Used git log command to check commits created.
 Also, Created a new branch feature. 
+
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/70b14e9c-7e50-41ec-b863-c1cb1ebd80ee" />
