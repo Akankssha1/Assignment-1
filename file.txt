@@ -2,7 +2,7 @@ git commands
 git init
 git status
 git add .
-git commit -m "messages"
+git commit -m "hello gitt"
 git commit
 repository
 git log
