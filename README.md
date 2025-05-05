@@ -5,3 +5,5 @@ secondcommit.
 Next, Modified the content of first.txt again and added a ending line to the file and made thirdcommit. 
 Then, Again Modified the content of first.txt and changed the text from "repository" to "created a repository" and made finalcommit. 
 All the changes made are saved in the finalcommit.
+Used git log command to check commits created.
+Also, Created a new branch feature. 
